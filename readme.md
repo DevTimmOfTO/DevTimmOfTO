@@ -1,4 +1,4 @@
-# Hey, I'm Timo 👋
+# Hey, I'm Timm 👋
 
 I'm a high school student from Germany with a passion for open source,
 Linux, and building things that actually matter.
