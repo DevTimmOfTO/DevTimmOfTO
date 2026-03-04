@@ -5,7 +5,6 @@ Linux, and building things that actually matter.
 Currently preparing for my Abitur while working on side projects
 that combine my love for technology and transit systems.
 
-Long-term goal: move to Toronto 🇨🇦 and study Computer Science.
 
 ---
 
