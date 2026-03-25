@@ -37,7 +37,7 @@ should respect users, be transparent, and be owned by the community
 
 - 🌐 Blog: [devtimmofto.github.io/blog](https://devtimmofto.github.io/blog)
 - 🐙 GitHub: [@DevTimmOfTO](https://github.com/DevTimmOfTO)
-- 👥 Discord: [`devtimmpftp`](https://discord.com/users/629199560002109453)
+- 👥 Discord: [`devtimmofto`](https://discord.com/users/629199560002109453)
 
 ---
 
