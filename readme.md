@@ -1,9 +1,9 @@
 # Hey, I'm Timm 👋
 
-Student from Germany with a ❤️ for open source (also paid, cause i have to live a life),
-Linux, and software which i love.
-I study Computer Science and love it.
-And i don't now to write here but i am open to chat for request or anything.
+- Student from Germany with a ❤️ for open source (also paid, cause i have to live a life),
+- Linux, and software which i love.
+- I study Computer Science and love it.
+- And i don't know to write here is perfect but i am open to chat for request or anything.
 
 ---
 
