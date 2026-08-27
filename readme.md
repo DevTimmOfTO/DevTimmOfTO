@@ -17,13 +17,12 @@
 
 ## Honest Take
 
-AI isn't only bad. AI can be good if you learn to use it correctly.
+AI isn't only bad. AI can be good if you learn to use it correctly. But i think as long you give AI limits, it could work very well.
 
 ---
 
 ## 📬 Contact
 
-- 🌐 Blog: [devtimmofto.github.io/blog](https://devtimmofto.github.io/blog)
 - 🐙 GitHub: [@DevTimmOfTO](https://github.com/DevTimmOfTO)
 - 👥 Discord: [`devtimmofto`](https://discord.com/users/629199560002109453)
 
