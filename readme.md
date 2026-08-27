@@ -1,35 +1,23 @@
 # Hey, I'm Timm 👋
 
-I'm a high school student from Germany with a passion for open source,
-Linux, and building things that actually matter.
-Currently preparing for my Abitur while working on side projects
-that combine my love for technology and transit systems.
-
+Student from Germany with a ❤️ for open source (also paid, cause i have to live a life),
+Linux, and software which i love.
+I study Computer Science and love it.
+And i don't now to write here but i am open to chat for request or anything.
 
 ---
 
 ## 🔭 Current Projects
 
-- **[SpadinaUI](https://github.com/DevTimmOfTO)** — A Rust-powered cross-platform desktop UI framework with Toronto-inspired branding
-- **[Blog](https://devtimmofto.github.io/blog)** — Personal blog built with Hugo & GitHub Pages
-- **OSM Mapping** — Contributing to OpenStreetMap, mostly in Thuringia
+- **[SpadinaUI](https://github.com/DevTimmOfTO/SpadinaUI)** — A Rust-powered cross-platform desktop UI framework named after my fav. street in TO.
+- **[BetterDrink](https://github.com/DevTimmOfTO/BetterDrink)** — A mobile App for monitoring your drinking
+- ...
 
 ---
 
-## 🛠️ Tech Stack
+## Honest Take
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🌱 My Focus
-
-I care about **Free and Open Source Software**. I believe software
-should respect users, be transparent, and be owned by the community
-— not corporations. Most of what I build is and will stay open source.
+AI isn't only bad. AI can be good if you learn to use it correctly.
 
 ---
 
@@ -41,4 +29,6 @@ should respect users, be transparent, and be owned by the community
 
 ---
 
-*Built with 🦀 Rust dreams and too much coffee* 
+*Built with streetcars in mind and open-minded thinking* 
+
+PS: I am open to help people and support people, cause everyone can make this world to a better place.
